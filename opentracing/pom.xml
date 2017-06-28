@@ -24,6 +24,7 @@
 
 
   <modules>
+    <module>opentracing-ejb</module>
     <module>opentracing-servlet</module>
   </modules>
 </project>
